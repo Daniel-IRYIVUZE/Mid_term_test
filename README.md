@@ -2,7 +2,7 @@
 > Using a programming language you want, Write a program that reads a list of integers from input file . Generate an output  file with a list of duplicate integers present in the input file.
 
 #### Instructions:
-##### 1. Download the sample data in this location<https://alueducation.instructure.com/courses/1465/files/175515?wrap=1>
+##### 1. Download the sample data in this <https://alueducation.instructure.com/courses/1465/files/175515?wrap=1>
 ##### 2. Read a file that has one integer on each line. The integer can be positive or negative.
 5
 
